@@ -65,16 +65,11 @@
 
 ---
 
-### GitHub Stats
+### GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yax11&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Yax11's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yax11&hide_border=true" alt="Yax11's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yax11&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
+- 📦 **25** public repositories
+- 🛠️ Most-used languages across repos: **Dart, TypeScript, JavaScript, Python, HTML/CSS, C++, Shell**
+- 📌 Active areas: mobile apps (Flutter/Dart), backend services (Node.js/JavaScript), and learning projects (ALX C & DevOps track)
 
 ---
 
