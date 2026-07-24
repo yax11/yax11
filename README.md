@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Yakubu Haruna 👋</h1>
-
-<h3 align="center">Director of Technology | Software & Web Developer | Flutter · JavaScript · Python</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100B53&height=180&section=header&text=Yakubu%20Haruna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Director%20of%20Technology%20%7C%20Software%20%26%20Web%20Developer&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
 
 <p align="center">
-  Building mobile and web systems for real-world problems — from civic-engagement apps to internal business tools — while deepening my expertise in cybersecurity.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=100B53&center=true&vCenter=true&width=600&lines=Building+mobile+%26+web+systems+for+real-world+problems;Flutter+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+PHP;Currently+deepening+skills+in+Cybersecurity" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -11,6 +9,7 @@
   <a href="mailto:yakubuharun11@gmail.com"><img src="https://img.shields.io/badge/Email-yakubuharun11%40gmail.com-blue?style=flat-square" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Abuja%2C%20Nigeria-orange?style=flat-square" alt="Location"/>
 </p>
+
 
 ---
 
@@ -33,6 +32,9 @@
 |---|---|
 | 🚕 **MetRide** | Mobile ride-hailing app |
 | 🛒 **Market2Home** | Mobile marketplace app built for Ahioma Marketplace |
+| ⚖️ **[LexDecipher](https://lexdecipher.com/)** | Web platform — [add a one-line description of what it does] |
+| 📊 **[RatioDecipher](https://ratiodecipher.com/)** | Web platform — [add a one-line description of what it does] |
+| 🏛️ **JSC Implementation App** ([portal](https://portal.jsc.abj.gov.ng/login)) | System built for the Judicial Service Committee, Abuja — [add a one-line description of its purpose/scope] |
 | 🗳️ **[VoteCam](https://github.com/yax11/votecam_docs)** | Mobile civic-engagement app supporting election transparency in Cameroon |
 | 🏢 **[MettleParagon](https://github.com/yax11/MET-Ride---Staff)** | Business productivity mobile application for staff operations |
 | 📋 **CATAI** | Web-based project management and tracking platform |
@@ -43,6 +45,10 @@
 <!--
 TODO: replace MetRide and Market2Home with links once their repos are public/named,
 and add a one-line note on your specific role/stack for each.
+TODO: confirm what LexDecipher and RatioDecipher actually do — couldn't verify content
+programmatically, so descriptions above are placeholders.
+TODO: for the JSC app, double check whether you're allowed to publicly name the client/system
+(some government contracts have confidentiality clauses) before publishing this.
 -->
 
 ---
@@ -81,9 +87,24 @@ and add a one-line note on your specific role/stack for each.
 
 ### GitHub Overview
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yax11&show_icons=true&theme=default&hide_title=false&count_private=true&title_color=100B53&icon_color=100B53&text_color=333333&border_color=e0e0e0" alt="yax11's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yax11&layout=compact&theme=default&title_color=100B53&text_color=333333&border_color=e0e0e0" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yax11&theme=default&hide_border=true&background=FFFFFF&ring=100B53&fire=100B53&currStreakLabel=100B53" alt="GitHub Streak"/>
+</p>
+
 - 📦 **25** public repositories
 - 🛠️ Most-used languages across repos: **Dart, TypeScript, JavaScript, Python, HTML/CSS, C++, Shell**
 - 📌 Active areas: mobile apps (Flutter/Dart), backend services (Node.js/JavaScript), cybersecurity/networking fundamentals, and learning projects (ALX C & DevOps track)
+
+<!-- NOTE: the three cards above are generated live by github-readme-stats.vercel.app and
+github-readme-streak-stats.herokuapp.com — free, widely-used services that render an
+up-to-date image on every page load. No setup needed beyond your GitHub username already
+being in the URL, but if either service is ever down, the images just won't load — that's
+normal and not something wrong with your repo. -->
 
 ---
 
@@ -95,3 +116,5 @@ and add a one-line note on your specific role/stack for each.
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos or reach out!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100B53&height=100&section=footer" alt="Footer banner" width="100%"/>
