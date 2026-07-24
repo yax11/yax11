@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Yakubu Haruna 👋</h1>
 
-<h3 align="center">Software & Web Developer | Flutter · JavaScript · Python</h3>
+<h3 align="center">Director of Technology | Software & Web Developer | Flutter · JavaScript · Python</h3>
 
 <p align="center">
-  Building mobile and web systems for real-world problems — from civic-engagement apps to internal business tools.
+  Building mobile and web systems for real-world problems — from civic-engagement apps to internal business tools — while deepening my expertise in cybersecurity.
 </p>
 
 <p align="center">
@@ -16,9 +16,11 @@
 
 ### About Me
 
-- 🔭 IT Officer at **Mettle-Paragon International Ltd** (remote) — and Web Developer at **Multivisions and Pixels** (remote) since 2020
+- 💼 **Director of Technology / IT Manager** at **Mettle-Paragon International Ltd** (2024–Present) — leading technology strategy, infrastructure, and internal software projects
+- 💻 **Web Developer** at **Multivisions and Pixels** (2020–Present, remote), **Justice Watch** (2020–Present, remote), and **Tessycare International** (Australia — NDIS disability services provider)
 - 🎓 BSc Computer Science, Nasarawa State University (2020–2024); HND Survey & Geo-informatics, Federal Polytechnic Nasarawa
-- 💻 I build and maintain **desktop, web, and mobile systems**, with a focus on practical, production-ready solutions
+- 🛡️ Currently pursuing an **MSc in Cybersecurity**, building on hands-on networking/cyber security training (SKY7 / Advanced Cisco Networks)
+- 🔭 Build and maintain **desktop, web, and mobile systems**, with a focus on practical, production-ready solutions
 - 🌱 Currently deepening my skills in **Flutter/Dart** for cross-platform mobile development and modern state management (GetX)
 - 🗣️ Speak English and Hausa
 - ⚡ Fun fact: I enjoy turning ambiguous problems into working software fast
@@ -29,12 +31,19 @@
 
 | Project | Description |
 |---|---|
+| 🚕 **MetRide** | Mobile ride-hailing app |
+| 🛒 **Market2Home** | Mobile marketplace app built for Ahioma Marketplace |
 | 🗳️ **[VoteCam](https://github.com/yax11/votecam_docs)** | Mobile civic-engagement app supporting election transparency in Cameroon |
 | 🏢 **[MettleParagon](https://github.com/yax11/MET-Ride---Staff)** | Business productivity mobile application for staff operations |
 | 📋 **CATAI** | Web-based project management and tracking platform |
 | 🚀 **[flutter_getx_starter](https://github.com/yax11/flutter_getx_starter)** | Clean Flutter starter template using GetX for routing & state management |
 | ⛪ **[ECWA_app](https://github.com/yax11/ECWA_app)** | Mobile application built for ECWA |
 | 🔔 **[Voice-based-Notification](https://github.com/yax11/Voice-based-Notification)** | Voice-driven notification system (Flutter frontend + Node.js backend) |
+
+<!--
+TODO: replace MetRide and Market2Home with links once their repos are public/named,
+and add a one-line note on your specific role/stack for each.
+-->
 
 ---
 
@@ -63,13 +72,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**Networking & Security**
+
+![Cisco](https://img.shields.io/badge/Networking-Cisco%20Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Security](https://img.shields.io/badge/Cyber%20Security-MSc%20in%20progress-8A2BE2?style=flat-square&logo=hackthebox&logoColor=white)
+
 ---
 
 ### GitHub Overview
 
 - 📦 **25** public repositories
 - 🛠️ Most-used languages across repos: **Dart, TypeScript, JavaScript, Python, HTML/CSS, C++, Shell**
-- 📌 Active areas: mobile apps (Flutter/Dart), backend services (Node.js/JavaScript), and learning projects (ALX C & DevOps track)
+- 📌 Active areas: mobile apps (Flutter/Dart), backend services (Node.js/JavaScript), cybersecurity/networking fundamentals, and learning projects (ALX C & DevOps track)
 
 ---
 
