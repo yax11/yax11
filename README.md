@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=100B53&height=180&section=header&text=Yakubu%20Haruna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Director%20of%20Technology%20%7C%20Software%20%26%20Web%20Developer&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100B53&height=180&section=header&text=Yakubu%20Haruna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header banner" width="100%"/>
+
+<h3 align="center">Director of Technology | Software & Web Developer | Flutter · JavaScript · Python</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=100B53&center=true&vCenter=true&width=600&lines=Building+mobile+%26+web+systems+for+real-world+problems;Flutter+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+PHP;Currently+deepening+skills+in+Cybersecurity" alt="Typing SVG" /></a>
@@ -88,23 +90,36 @@ TODO: for the JSC app, double check whether you're allowed to publicly name the 
 ### GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yax11&show_icons=true&theme=default&hide_title=false&count_private=true&title_color=100B53&icon_color=100B53&text_color=333333&border_color=e0e0e0" alt="yax11's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yax11&layout=compact&theme=default&title_color=100B53&text_color=333333&border_color=e0e0e0" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yax11&show_icons=true&theme=default&hide_title=false&count_private=true&title_color=100B53&icon_color=100B53&text_color=333333&border_color=e0e0e0&cache_seconds=86400" alt="yax11's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yax11&layout=compact&theme=default&title_color=100B53&text_color=333333&border_color=e0e0e0&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yax11&theme=default&hide_border=true&background=FFFFFF&ring=100B53&fire=100B53&currStreakLabel=100B53" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=yax11&theme=default&hide_border=true&background=FFFFFF&ring=100B53&fire=100B53&currStreakLabel=100B53" alt="GitHub Streak"/>
+</p>
+
+<!-- Reliable fallback badges — these use shields.io (very stable) and will always render,
+even if the fancy cards above are temporarily down. Delete this block once you've confirmed
+the cards above are displaying properly on your actual profile page. -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Public_Repos-25-100B53?style=flat-square" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/Top_Languages-Dart_%7C_TypeScript_%7C_JavaScript-100B53?style=flat-square" alt="Top Languages"/>
 </p>
 
 - 📦 **25** public repositories
 - 🛠️ Most-used languages across repos: **Dart, TypeScript, JavaScript, Python, HTML/CSS, C++, Shell**
 - 📌 Active areas: mobile apps (Flutter/Dart), backend services (Node.js/JavaScript), cybersecurity/networking fundamentals, and learning projects (ALX C & DevOps track)
 
-<!-- NOTE: the three cards above are generated live by github-readme-stats.vercel.app and
-github-readme-streak-stats.herokuapp.com — free, widely-used services that render an
-up-to-date image on every page load. No setup needed beyond your GitHub username already
-being in the URL, but if either service is ever down, the images just won't load — that's
-normal and not something wrong with your repo. -->
+<!-- NOTE on reliability: the stats/top-languages cards use the *public* demo instance of
+github-readme-stats.vercel.app, which is well known in the developer community for going
+down or getting rate-limited (this is documented in the project's own GitHub issues, not
+a problem with your setup). If they stop showing up again:
+  1. First just wait — it's often temporary.
+  2. If it stays broken for days, replace those two <img> lines with the plain
+     shields.io badges already included above (delete "Reliable fallback badges" comment
+     and keep just the badges).
+  3. For a permanent fix, you can deploy your own free copy of github-readme-stats on
+     Vercel (instructions in the project's README) and swap the domain in the URL. -->
 
 ---
 
